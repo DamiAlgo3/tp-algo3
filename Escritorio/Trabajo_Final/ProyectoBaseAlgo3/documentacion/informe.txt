@@ -1,6 +1,0 @@
-
-Informe sobre el TP.
-
-Incluir: lo que pide el enunciado (caratura, supuestos, etc)
-
-Colocar los diagramas en formato imagen (JPG, TIF, etc) en la carpeta "documentacion/diagramas".

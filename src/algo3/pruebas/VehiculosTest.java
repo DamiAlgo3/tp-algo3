@@ -18,13 +18,10 @@ public class VehiculosTest extends TestCase{
 		super.setUp();
 		
 		unAuto = new Auto();
-		unAuto.setMovimientos(2);
-		
+	
 		unTodoTerreno = new TodoTerreno();
-		unTodoTerreno.setMovimientos(2);
 		
 		unaMoto = new Moto();
-		unaMoto.setMovimientos(2);
 		
 		unEvento = new Bache(); 
 	}

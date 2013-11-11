@@ -10,4 +10,4 @@ public class Moto extends Vehiculo {
 		int aux = (int) (Math.random()*100);
 		if(aux < 30) { movimientos += 3;}
 		}
-}
+	}

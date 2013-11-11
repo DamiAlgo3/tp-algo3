@@ -1,4 +1,4 @@
-
+package algo3.modelo.vehiculos;
 import algo3.modelo.interactuables.*;
 
 public class Auto extends Vehiculo {

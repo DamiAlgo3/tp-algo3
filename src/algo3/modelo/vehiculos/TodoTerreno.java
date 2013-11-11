@@ -7,7 +7,6 @@ public class TodoTerreno extends Vehiculo {
 	public void interactuar(Bache unBache){}
 	public void interactuar(Piquete unPiquete){}
 	public void interactuar(ControlPolicial unControlPolicial){
-		int aux = (int) (Math.random()*100);
-		if(aux < 30) { movimientos += 3;}
+		if(unControlPolicial.numeroActual() < 30) { movimientos += 3;}
 		}
 	}
